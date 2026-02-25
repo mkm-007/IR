@@ -1,0 +1,54 @@
+MURALI KRISHNA MADDINENI
+Atlanta, GA | +1 (470) 478-4859 | mmaddineni1@student.gsu.edu | LinkedIn | GitHub
+
+EDUCATION
+Georgia State University                                                    Jan 2025 – Present
+M.Sc. Computer Science (CGPA: 3.58)
+Relevant Courses: [Add courses tailored to job description when you have JD]
+
+GITAM University, Hyderabad                                                Aug 2020 – Apr 2024
+B. Tech, Electronics & Communication Engineering with AIML Specialization (CGPA: 3.4)
+Relevant Courses: [Add courses tailored to job description when you have JD]
+
+EXPERIENCE
+Graduate Teaching Assistant, Deep Learning                                 Aug 2025 – Present
+Georgia State University
+• [Add bullet points tailored to JD]
+
+[Past Role – Job Title]                                                    [Date Range]
+[Company/Organization]
+• [Add bullet points]
+
+[Past Role – Job Title]                                                    [Date Range]
+[Company/Organization]
+• [Add bullet points]
+
+TECHNICAL PROJECTS
+Artificial Intelligence–Based Voice Assistant                              Aug 2023 – Apr 2024
+UG Capstone Project (Academic Project Lead)
+• Designed and implemented a voice-assistant workflow for conversational interaction, including intent handling and response generation.
+• Built and trained sequence models (RNN/LSTM/GRU) for intent classification using Python with PyTorch/TensorFlow (Keras) and supporting libraries (NumPy/Librosa).
+• Performed data preprocessing and feature engineering (tokenization/padding/embeddings; audio/text processing) and conducted error analysis to improve model reliability.
+• Evaluated model performance using train/validation testing and reported 92% intent detection accuracy on a custom dataset; delivered a working demo and documentation.
+• Led technical discussions and project reviews with faculty/peers; delivered documentation covering methodology, experiments, and results.
+
+Voice-Controlled LED Automation                                            May 2023 – Jul 2023
+Internship Project
+• Developed a smart-home lighting prototype using ESP8266 NodeMCU, enabling Wi-Fi connectivity and GPIO-based LED control.
+• Integrated Google Assistant with IFTTT Webhooks to convert voice commands into HTTP triggers for device automation.
+• Implemented firmware logic (Arduino/Embedded C/C++) for reliable command execution and device state handling; documented setup for repeatable deployment/testing.
+
+SKILLS
+[Tailor to job description: programming languages, frameworks, tools, and technologies from the JD]
+
+LEADERSHIP
+[Add leadership roles, positions, and impact]
+
+COMMUNITY ENGAGEMENT
+[Add volunteer work, clubs, outreach, or community involvement]
+
+ADDITIONAL SKILLS
+[Add certifications, languages, or other relevant skills]
+
+INTERESTS
+[Add interests relevant to role or culture fit]
