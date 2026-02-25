@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1771992738.4585 "/Users/muralimaddineni/Documents/Documents - Murali’s MacBook Air/Internships/resume/resume-template.tex" "resume-template.pdf" "resume-template" 1771992738.83558 0
-  "/Users/muralimaddineni/Documents/Documents - Murali’s MacBook Air/Internships/resume/resume-template.tex" 1771992738.23223 5436 7985c69c4e84afb79c0f0cc614e215d6 ""
+["pdflatex"] 1772000737.09982 "/Users/muralimaddineni/Documents/Documents - Murali’s MacBook Air/Internships/resume/resume-template.tex" "resume-template.pdf" "resume-template" 1772000737.45587 0
+  "/Users/muralimaddineni/Documents/Documents - Murali’s MacBook Air/Internships/resume/resume-template.tex" 1772000736.87732 5430 08a4ea455143614e70c06f3703a2e044 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -51,9 +51,9 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1770239018 5541377 824b1e5beafd2ebda40585373b35bb6b ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1770239229 3636354 8e35b2c316a8d0bbf56c8741a07944f1 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "resume-template.aux" 1771992738.80255 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
-  "resume-template.out" 1771992738.67986 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "resume-template.tex" 1771992738.23223 5436 7985c69c4e84afb79c0f0cc614e215d6 ""
+  "resume-template.aux" 1772000737.42534 162 55205a9e8a8eca30d36afb389b0617bf "pdflatex"
+  "resume-template.out" 1772000737.3211 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "resume-template.tex" 1772000736.87732 5430 08a4ea455143614e70c06f3703a2e044 ""
   (generated)
   "resume-template.aux"
   "resume-template.log"
